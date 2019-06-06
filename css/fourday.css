@@ -1,0 +1,192 @@
+.dingdan-box-one{
+	height: 700px;
+	width: 100%;
+	border-bottom: 1px solid #d6d6d6;
+}
+.dingdan-text{
+	font-size: 40px;
+	
+    line-height: 1.1;
+    letter-spacing: 0;
+    font-weight: 549;
+    display: block;
+    margin-top: 65px;
+    margin-bottom: 52px;
+	margin-left: 200px;
+}
+.column{
+	margin-left: auto;
+	margin-right: auto;
+	width: 980px;
+	height: 480px;
+	position: relative;
+	
+}
+.column-left{
+	margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+	height: 480px;
+	box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+    float: left;
+    min-height: 2px;
+}
+.dingdan-text-two{
+	text-align: center;
+    margin-bottom: 18px;
+	max-width: 430px;
+    font-size: 40px;
+    margin: auto;
+    line-height: inherit;
+    font-weight: 200;
+    overflow: hidden;
+}
+.dingdan-text-three{
+	max-width: 380px;
+    margin: 5px auto 13px;
+    word-break: break-word;
+	font-size: 21px;
+    line-height: 1.38105;
+    font-weight: 400;
+    letter-spacing: .011em;
+	text-align: center;
+	margin-top: 20px;
+}
+.denglu-buttom{
+	border-radius: 7px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+	display: table-cell;
+    vertical-align: top;
+    direction: ltr;
+	
+}
+.denglu-input{
+	margin: 0;
+    box-shadow: none;
+    height: 42px;
+    border: 0;
+    border-radius: 6px;
+    border-color: transparent;
+	font-size: 17px;
+    line-height: 1.29412;
+    font-weight: 400;
+    letter-spacing: -.021em;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    width: 326px;
+    height: 46px;
+    margin-bottom: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #333;
+    text-align: left;
+    border: 1px solid #d6d6d6;
+    border-radius: 4px;
+    background: #fff;
+    background-clip: padding-box;
+	margin-left: 155px;
+
+}
+.input-img{
+	margin-top: 5px;
+	margin-left: -20px;
+}
+.dingdan-xuanze{
+	margin: 0 auto;
+	    text-align: center;
+		margin-top: 80px;
+		border-bottom: 1px solid #d6d6d6;
+		width: 240px;
+		height: 45px;
+}
+.dingdan-text-four{
+	text-align: center;
+	margin-top: 20px;
+	color: #0070C9;
+}
+a{
+	text-decoration: none;
+}
+.column-right{
+	box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+    float: left;
+    min-height: 2px;
+	border-left: 1px solid #d6d6d6;
+	width: 340px;
+	height: 440px;
+}
+.dingdan-text-five{
+	font-size: 24px;
+    line-height: 1.16667;
+    letter-spacing: .009em;
+	margin-left: 40px;
+	font-weight: 400;
+}
+.dingdan-text-six{
+	margin-left: 40px;
+	font-weight: 400;
+	margin-top: 16px;
+	font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+}
+.right-input{
+	width:300px; 
+	height:46px;
+	margin: 0;
+	box-shadow: none;
+	
+	border: 0;
+	border-radius: 6px;
+	border-color: transparent;
+	font-size: 17px;
+	line-height: 1.29412;
+	font-weight: 400;
+	letter-spacing: -.021em;
+	display: inline-block;
+	box-sizing: border-box;
+	vertical-align: top;
+
+	margin-bottom: 14px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #333;
+	text-align: left;
+	border: 1px solid #d6d6d6;
+	border-radius: 4px;
+	background: #fff;
+	
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.right-button{
+	margin-left: 40px;
+	margin-top: 30px;
+	width:300px; 
+	height:46px;
+	color: white;
+	border: 1px ;
+	text-align: center;
+	background-color: #0000FF;
+}
+.dingdan-text-seven{
+	margin-left: 40px;
+	top: -113px;
+	position: relative;
+}
+.dingdan-text-eight{
+	margin-left: 200px;
+	margin-top: 20px;
+	font-weight: 500;
+	font-size: 17px;
+}
